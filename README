@@ -1,0 +1,4 @@
+playing with hazelcast
+- simple enqueuer and dequeuer using a distributed queue
+- enqueuer is a client - not part of the data cluster
+
